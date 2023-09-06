@@ -77,5 +77,6 @@ data:
 - High Availability
 
 ## Authors
-- Michael Wilson http://github.com/mewil
-- Valentin Alekseev http://github.com/valentinalexeev
+- Michael Wilson https://github.com/mewil
+- Valentin Alekseev https://github.com/valentinalexeev
+- Ronald Vleeming https://github.com/RonaldVleeming
