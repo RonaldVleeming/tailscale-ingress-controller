@@ -1,4 +1,4 @@
-module github.com/valentinalexeev/tailscale-ingress-controller
+module github.com/ronaldvleeming/tailscale-ingress-controller
 
 go 1.19
 
